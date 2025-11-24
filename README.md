@@ -1,6 +1,16 @@
-![Hello, Github!](https://capsule-render.vercel.app/api?type=venom&text=Code%20Hard.&color=0:004382,50:7E7ACC,100:770AC9&fontColor=E6E6E6&fontsize=75&animation=fadeInheight=300)
 
-:bulb:About Me:bulb:
+<div> 
+  
+  <!--header-->
+  
+  ![Hello, Github!](https://capsule-render.vercel.app/api?type=venom&text=Code%20Hard.&color=0:004382,50:7E7ACC,100:770AC9&fontColor=E6E6E6&fontsize=75&animation=fadeInheight=300)
+  
+</div>
+
+<div>
+:bulb:About Me:bulb: 
+
+
 
 :star2:Tech Stack:star2:
 
@@ -18,21 +28,9 @@
 
 :bar_chart:Github Stats:bar_chart:
 
-![PowerProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerProgrammer05&show_icons=true&icon_color=5B8FB9&text_color=B6EADA&title_color=3a0185&bg_color=03001C)
+![PowerProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerProgrammer05&show_icons=true&icon_color=5B8FB9&text_color=B6EADA&title_color=3a0185&bg_color=03001C&border_color=1c0140)
 
 
 :email:Contact Me:email:
-<!--
-**PowerProgrammer05/PowerProgrammer05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
