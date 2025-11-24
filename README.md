@@ -8,8 +8,6 @@
 </div>
 
 <div>
-  
-# Welcome to my profile! :bulb: 
 
 ## :star2:Tech Stack:star2:
 
