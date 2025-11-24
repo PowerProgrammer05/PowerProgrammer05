@@ -1,6 +1,10 @@
-![Hello, Github!](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20Github!&color=0:004382,50:7E7ACC,100:770AC9&fontColor=E6E6E6&fontsize=75&animation=fadeInheight=300)
+![Hello, Github!](https://capsule-render.vercel.app/api?type=venom&text=Code%20Hard.&color=0:004382,50:7E7ACC,100:770AC9&fontColor=E6E6E6&fontsize=75&animation=fadeInheight=300)
 
+:star2:Tech Stack:star2:
 
+:books:Studying:books:
+
+:email:Contact Me:email:
 <!--
 **PowerProgrammer05/PowerProgrammer05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
