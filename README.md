@@ -1,6 +1,10 @@
 ![Hello, Github!](https://capsule-render.vercel.app/api?type=venom&text=Code%20Hard.&color=0:004382,50:7E7ACC,100:770AC9&fontColor=E6E6E6&fontsize=75&animation=fadeInheight=300)
 
+:bulb:About Me:bulb:
+
 :star2:Tech Stack:star2:
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 
 :books:Studying:books:
 
