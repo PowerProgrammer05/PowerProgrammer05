@@ -1,4 +1,4 @@
-![Hello, Github!](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20Github!&color=0:004382,50:7E7ACC,100:770AC9&fontColor=D4D4D4&fontsize=75)
+![Hello, Github!](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20Github!&color=0:004382,50:7E7ACC,100:770AC9&fontColor=E6E6E6&fontsize=75&animation=fadeIn)
 
 
 <!--
