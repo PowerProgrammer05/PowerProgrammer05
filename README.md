@@ -18,7 +18,7 @@
 
 :bar_chart:Github Stats:bar_chart:
 
-[![PowerProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerProgrammer05)](https://github.com/anuraghazra/github-readme-stats/api?theme=cobalt)
+![PowerProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerProgrammer05&show_icons=true&theme=cobalt)
 
 
 :email:Contact Me:email:
