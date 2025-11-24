@@ -3,7 +3,9 @@
 :bulb:About Me:bulb:
 
 :star2:Tech Stack:star2:
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=Python&logoColor=white"/> 
 
 
 :books:Studying:books:
