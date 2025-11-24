@@ -13,7 +13,7 @@
 ## :star2:Tech Stack:star2:
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/>
 
 ### Library
 
