@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-
+  <br><br>
 ## :star2:Tech Stack:star2:
 
 ### Languages
@@ -27,14 +27,14 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=Python&logoColor=white"/>
 
 
-
+<br><br><br>
 
 ## :bar_chart:Github Stats:bar_chart:
 
 ![PowerProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerProgrammer05&show_icons=true&icon_color=5B8FB9&text_color=B6EADA&title_color=3a0185&bg_color=03001C&border_color=1c0140)
 
 
-
+<br><br>
 
 ## 🧑‍💻Contact Me🧑‍💻
 <div style="text-align: left;" align="center">
