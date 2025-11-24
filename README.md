@@ -38,13 +38,16 @@
 <br><br>
 
 ## 🧑‍💻Contact Me🧑‍💻
-<div style="text-align: left;" align="center">
-    <div style="text-align: left;"> <a href=https://www.instagram.com/power.techy/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/power.techy/"> </a>
-         <a href=https://velog.io/@powerprogrammer/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@powerprogrammer/posts"> </a>
-         <a href=https://powerprogrammer-note.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://powerprogrammer-note.tistory.com/"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-</div>
+
+<a href="https://www.instagram.com/mini_mini_joon](https://www.instagram.com/power.techy/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://powerprogrammer-note.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-5865F2?style=flat-square&logo=tistory&logoColor=white">
+    </a>
+    <a href="[https://velog.io/@full2null/posts](https://velog.io/@powerprogrammer/posts)">
+      <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
+    </a>
     
 
 </div>
