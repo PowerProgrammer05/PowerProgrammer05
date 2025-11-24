@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Hello, Github!](https://capsule-render.vercel.app/api?type=blur&color=0:004382,50:7E7ACC,100:770AC9&fontcolor=020124)
+
 
 <!--
 **PowerProgrammer05/PowerProgrammer05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
