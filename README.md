@@ -32,8 +32,7 @@
 
 ## :bar_chart:Github Stats:bar_chart:
 
-![PowerProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerProgrammer05&show_icons=true&icon_color=5B8FB9&text_color=B6EADA&title_color=3a0185&bg_color=03001C&border_color=1c0140)
-
+![PowerProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerProgrammer05&show_icons=true&icon_color=5B8FB9&text_color=B6EADA&title_color=3a0185&bg_color=03001C&border_color=1c0140&cache_seconds=3600)
 
 <br><br>
 
